@@ -9,4 +9,4 @@ Your Personal Locker
 [![Twitter](https://img.shields.io/badge/twitter-@santanu4ver-blue.svg?maxAge=2592000)](https://twitter.com/santanu4ver)
 
 ### A Few Thoughts
-Once started as weekends' experiment, Celo is now v3.0.0. The development is through enough updates now so I can think about its the best time to let it go, and let everything open sourced. It's possible that I may not update the repo frequently in future, encourage you to play yourself with the codes if you want anything to be changed, I might chime in at sometime if any critical error(s). Enjoy!
+Once started as weekends' experiment, Celo is now v3.0.0. The development is through enough updates I think its the best time to let it go, and be it open sourced. It's possible that I may not be available to update the repo frequently in future, encouraging you to play with the codes if you needs any modification; I might chime in at sometime if any critical error(s), though. Enjoy!
