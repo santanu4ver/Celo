@@ -9,5 +9,4 @@ Your Personal Locker
 [![Twitter](https://img.shields.io/badge/twitter-@santanu4ver-blue.svg?maxAge=2592000)](https://twitter.com/santanu4ver)
 
 ### A Few Thoughts
------
 Once started as weekends' experiment, Celo is now v3.0.0.
