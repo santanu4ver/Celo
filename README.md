@@ -14,8 +14,8 @@ Once started as weekends' experiment, Celo is now v3.0.0. The development is thr
 ## How the Locker Works
 The application divides into three-four stages:
 - Camouflage - A basic game (2018)
-- Login - Opens up upon a key-press combination
-- Locker Area - Opens up differently between legit and guest user
-- Return to Camouflage - Works immediately on key-press combination at any time
+- Login - Opens upon a key-press combination
+- Locker Area - Opens the personal space to store your items (opens differently between legit and unexpected guests)
+- Return to Camouflage - Works immediately upon key-press at any time
 
 Following are visuals from different sections to depict the functionalities:
