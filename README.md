@@ -23,4 +23,4 @@ Following are visuals from different sections to depict the functionalities:
 | <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot13.png" width="80%" height="80%" /> | <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot21.png" width="80%" height="80%" /> |
 | -------------- | -------------- |
 | Camouflage as Game | Login Upon Key-combination |
-<img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot3_3.png" width="100%" height="100%" />
+<img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot3_3.png" width="90%" height="90%" />
