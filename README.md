@@ -28,7 +28,5 @@ Following are visuals from different sections to depict the functionalities:
 | <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot61.png" width="80%" height="80%" /> | <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot111.png" width="80%" height="80%" /> |
 | -------------- | -------------- |
 | Import from Library | Import through iTunes |
-| <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot71.png" width="80%" height="80%" /> | <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot13.jpg" width="80%" height="80%" /> |
-| Browse Gallery in HD with Other Options | Video Control in an Intuitive Way |
-| <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot121.png" width="80%" height="80%" /> | |
-| Disappear in Fingers Tap | |
+| <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot71.png" width="80%" height="80%" /> | <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot121.png" width="80%" height="80%" /> |
+| Browse Gallery in HD with Other Options | Disappear in Fingers Tap |
