@@ -20,6 +20,6 @@ The application divides into three-four stages:
 
 Following are visuals from different sections to depict the functionalities:
 
-| <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot13.png" width="50%" height="50%" /> | <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot21.png" width="50%" height="50%" /> |
+| <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot13.png" width="100%" height="100%" /> | <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot21.png" width="100%" height="100%" /> |
 | -------------- | -------------- |
 | Camouflage as Game | Login Upon Key-combination |
