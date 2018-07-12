@@ -24,6 +24,7 @@ Following are visuals from different sections to depict the functionalities:
 | -------------- | -------------- |
 | Camouflage as Game | Login Upon Key-combination |
 <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot3_3.png" width="80%" height="80%" />
+
 | <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot61.png" width="80%" height="80%" /> | <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot111.png" width="80%" height="80%" /> |
 | -------------- | -------------- |
 | Import from Library | Import through iTunes |
