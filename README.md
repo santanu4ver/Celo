@@ -35,8 +35,17 @@ Following are visuals from different sections to depict the functionalities:
 | Browse Gallery in HD with Other Options | Disappear in Fingers Tap |
 
 ## What's New in v3.0
+- Swift 3.0
 - All new UI
 - Heavily emphasized on memory management and caching
 - Lots of bug fixes
 
 ### How to Install
+Make sure you've Cocoapods installed.
+
+On Terminal navigate to the project directory and run:
+```
+pod install
+```
+
+Double-click the newly generated `.xcworkspace` file to open the project in XCode.
