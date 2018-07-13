@@ -49,3 +49,5 @@ pod install
 ```
 
 Double-click the newly generated `.xcworkspace` file to open the project in XCode.
+
+### APIs those Deserves an Applause (<3 Open Source)
