@@ -33,3 +33,10 @@ Following are visuals from different sections to depict the functionalities:
 | <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot71.png" width="80%" height="80%" /> | <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot121.png" width="80%" height="80%" /> |
 | -------------- | -------------- |
 | Browse Gallery in HD with Other Options | Disappear in Fingers Tap |
+
+## What's New in v3.0
+- All new UI
+- Heavily emphasized on memory management and caching
+- Lots of bug fixes
+
+### How to Install
