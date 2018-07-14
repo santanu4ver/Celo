@@ -66,9 +66,9 @@ Double-click the newly generated `.xcworkspace` file to open the project in XCod
 \- [ImageSlideshow](https://github.com/zvonicek/ImageSlideshow)  
 \- [RACollectionViewReorderableTripletLayout](https://github.com/ra1028/RACollectionViewReorderableTripletLayout)  
 
-## Feel Free to Get in Touch
+### Feel Free to Get in Touch
 - Twitter: [@santanu4ver](https://twitter.com/santanu4ver)
 - LinkedIn: [@SantanuKarar](https://www.linkedin.com/in/santanu-karar-1529033/)
 
 ### License
-`Celo` is released under the MIT license. See [LICENSE](https://github.com/santanu4ver/Celo/LICENSE) for more information.
+`Celo` is released under the MIT license. See [LICENSE](https://github.com/santanu4ver/Celo/blob/master/LICENSE) for more information.
