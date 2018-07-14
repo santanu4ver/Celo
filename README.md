@@ -51,8 +51,7 @@ pod install
 Double-click the newly generated `.xcworkspace` file to open the project in XCode.
 
 ## APIs those Deserves an Applause (:heartpulse: Open Source)
-\- <a href="https://github.com/chiunam/CTAssetsPickerController" target="_blank">CTAssetsPickerControl</a>  
-\- [CTAssetsPickerControl](https://github.com/chiunam/CTAssetsPickerController" target="_blank)  
+\- [CTAssetsPickerControl](https://github.com/chiunam/CTAssetsPickerController)  
 \- [DACircularProgress](https://github.com/danielamitay/DACircularProgress)  
 \- [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)  
 \- [Fast Image Cache](https://github.com/path/FastImageCache)  
@@ -66,3 +65,10 @@ Double-click the newly generated `.xcworkspace` file to open the project in XCod
 \- [Paper Onboarding](https://github.com/Ramotion/paper-onboarding)  
 \- [ImageSlideshow](https://github.com/zvonicek/ImageSlideshow)  
 \- [RACollectionViewReorderableTripletLayout](https://github.com/ra1028/RACollectionViewReorderableTripletLayout)  
+
+### Feel Free to Get in Touch
+- Twitter: [@santanu4ver](https://twitter.com/santanu4ver)
+- LinkedIn: [@SantanuKarar](https://www.linkedin.com/in/santanu-karar-1529033/)
+
+### License
+`Celo` is released under the MIT license. See LICENSE for more information.
