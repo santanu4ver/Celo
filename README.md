@@ -51,6 +51,7 @@ pod install
 Double-click the newly generated `.xcworkspace` file to open the project in XCode.
 
 ## APIs those Deserves an Applause (:heartpulse: Open Source)
+\- <a href="https://github.com/chiunam/CTAssetsPickerController" target="_blank">CTAssetsPickerControl</a>  
 \- [CTAssetsPickerControl](https://github.com/chiunam/CTAssetsPickerController" target="_blank)  
 \- [DACircularProgress](https://github.com/danielamitay/DACircularProgress)  
 \- [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)  
