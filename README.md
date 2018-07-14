@@ -13,7 +13,7 @@ Once started as weekends' experiment, Celo is now v3.0.0. The development has en
 
 ## How the Locker Works
 The application divides into three-four stages:
-- Camouflage - A basic game (2018)
+- Camouflage - A basic game (2048)
 - Login - Opens upon a key-press combination
 - Locker Area - Opens the personal space to store your items (opens differently between legit and unexpected guests)
 - Return to Camouflage - Works immediately upon key-press at any time
@@ -22,7 +22,7 @@ Following are visuals from different sections to depict the functionalities:
 
 | <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot13.png" width="80%" height="80%" /> | <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot21.png" width="80%" height="80%" /> |
 | -------------- | -------------- |
-| Camouflage as Game | Login Upon Key-combination |
+| Camouflage as Game | Two-finger Long-press Opens Login |
 <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot3_3.png" width="80%" height="80%" />
 
 | <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot61.png" width="80%" height="80%" /> | <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot111.png" width="80%" height="80%" /> |
@@ -32,7 +32,7 @@ Following are visuals from different sections to depict the functionalities:
 
 | <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot71.png" width="80%" height="80%" /> | <img src="https://thebongtraveler.files.wordpress.com/2018/07/screenshot121.png" width="80%" height="80%" /> |
 | -------------- | -------------- |
-| Browse Gallery in HD with Other Options | Disappear in Fingers Tap |
+| Browse Gallery in HD with Other Options | Disappear in Fingers' Tap |
 
 ## What's New in v3.0
 - Swift 3.0
