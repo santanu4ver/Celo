@@ -51,4 +51,17 @@ pod install
 Double-click the newly generated `.xcworkspace` file to open the project in XCode.
 
 ### APIs those Deserves an Applause (:heartpulse: Open Source)
-\- [Github SwiftLint](https://github.com/realm/SwiftLint)
+\- [CTAssetsPickerControl](https://github.com/chiunam/CTAssetsPickerController)
+\- [DACircularProgress](https://github.com/danielamitay/DACircularProgress)
+\- [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)
+\- [Fast Image Cache](https://github.com/path/FastImageCache)
+\- [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
+\- [PureLayout](https://github.com/PureLayout/PureLayout)
+\- [SDWebImage](https://github.com/rs/SDWebImage)
+\- [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard)
+\- [Periscope-VideoViewController](https://github.com/gontovnik/Periscope-VideoViewController)
+\- [2048](https://github.com/austinzheng/iOS-2048)
+\- [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer)
+\- [Paper Onboarding](https://github.com/Ramotion/paper-onboarding)
+\- [ImageSlideshow](https://github.com/zvonicek/ImageSlideshow)
+\- [RACollectionViewReorderableTripletLayout](https://github.com/ra1028/RACollectionViewReorderableTripletLayout)
