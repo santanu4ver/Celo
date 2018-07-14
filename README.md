@@ -73,7 +73,7 @@ Double-click the newly generated `.xcworkspace` file to open the project in XCod
 ### License
 `Celo` is released under the MIT license.
 
-Copyright (c) 2018 Celo (https://github.com/santanu4ver/Celo)
+Copyright (c) 2018 Celo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
